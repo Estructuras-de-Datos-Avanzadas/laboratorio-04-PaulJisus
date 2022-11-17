@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668648873 source:d:\proyectos_c++\eda\octreecolorquantiazer\main.cpp
+	<opencv2/opencv.hpp>
+	<iostream>
+	<vector>
+
